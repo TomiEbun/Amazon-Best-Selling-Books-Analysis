@@ -20,9 +20,10 @@
 ### Metadata Description
 
 The scrapped data contains the following columns:
+
 1.Title: the title of the book
 
-2.Genre: this is the category or type of book (Fiction or Non-Fiction)
+2. Genre: this is the category or type of book (Fiction or Non-Fiction)
 
 3. Author: this is the name of the author of a book
 
