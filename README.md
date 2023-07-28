@@ -20,23 +20,23 @@
 ### Metadata Description
 
 The scrapped data contains the following columns:
-title: the title of the book
+1.Title: the title of the book
 
-genre: this is the category or type of book (Fiction or Non-Fiction)
+2.Genre: this is the category or type of book (Fiction or Non-Fiction)
 
-author: this is the name of the author of a book
+3. Author: this is the name of the author of a book
 
-cover_type: this is the cover type of each book
+4. Cover_type: this is the cover type of each book
 
-rating: this is the user rating that a book has
+5. Rating: this is the user rating that a book has
 
-price: the price of each book
+6. Price: the price of each book
 
-rank: the ranking of each book in the top 100 best-selling for each year
+7. Rank: the ranking of each book in the top 100 best-selling for each year
 
-year: this is the year each book appeared as a best-selling book
+8.Year: this is the year each book appeared as a best-selling book
 
-no_of_review: this is the total reviews a book has
+9.No_of_review: this is the total reviews each book has
 
 
 
