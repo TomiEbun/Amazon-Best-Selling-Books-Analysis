@@ -21,7 +21,7 @@
 
 The scrapped data contains the following columns:
 
-1.Title: the title of the book
+1. Title: the title of the book
 
 2. Genre: this is the category or type of book (Fiction or Non-Fiction)
 
@@ -35,9 +35,9 @@ The scrapped data contains the following columns:
 
 7. Rank: the ranking of each book in the top 100 best-selling for each year
 
-8.Year: this is the year each book appeared as a best-selling book
+8. Year: this is the year each book appeared as a best-selling book
 
-9.No_of_review: this is the total reviews each book has
+9. No_of_review: this is the total reviews each book has
 
 
 
