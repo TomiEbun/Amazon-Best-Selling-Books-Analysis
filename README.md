@@ -1,9 +1,9 @@
 # Amazon-Best-Selling-Books-Analysis (2009-2019)
 ## PROJECT OVERVIEW
 
->**Amazon marketplace is a leading e-commerce platform for book sales since July 5th,1994.It was established by Jeff Bezos and will continue to be a leader in technological innovation, customer service, and a diverse marketplace. Amazon has revolutionized book sales and distribution by growing into one of the largest and most diverse online marketplaces in the world.**
+**Amazon marketplace is a leading e-commerce platform for book sales since July 5th,1994.It was established by Jeff Bezos and will continue to be a leader in technological innovation, customer service, and a diverse marketplace. Amazon has revolutionized book sales and distribution by growing into one of the largest and most diverse online marketplaces in the world.**
 
->**The impact of Amazon on the book industry and e-commerce landscape continues to grow,despite selling items other than books, such as electronics, clothing, and home goods, amazon continues to invest in enhancing its book-selling capabilities and values books as its core business.**
+**The impact of Amazon on the book industry and e-commerce landscape continues to grow,despite selling items other than books, such as electronics, clothing, and home goods, amazon continues to invest in enhancing its book-selling capabilities and values books as its core business.**
 
 **In this project, I web scrapped and analyzed Amazon Best Selling Books from 2009 to 2019. I wrangled the data to find insights and patterns.The dataset for this project will  be scrapped from the Amazon website using beautifulsoup & selenium.After webscrapping the amazon website,several rows in the scraped dataset for 2009-2019 has missing and null values.**
 
