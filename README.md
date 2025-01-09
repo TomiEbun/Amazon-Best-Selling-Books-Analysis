@@ -47,15 +47,15 @@ Each year contains a list of 100 best-selling books. The whole data contains 607
 
 ## SUMMARY OF THE FINDINGS (Exploratory Data Analysis)
 
-- # Among the top 10 most popular Authors, Author BrenA Brown and Jeff Kinney are the top selling authors with 14 appearances in the top selling books between 2009 and 2019.
+- ###### Among the top 10 most popular Authors, Author BrenA Brown and Jeff Kinney are the top selling authors with 14 appearances in the top selling books between 2009 and 2019.
 
-- # It was observed that the gift of imperfection, The great Gatsby, and Strength’s finder 2.0 has the highest number of occurrences amongst the top 10 most popular books.
+- ###### It was observed that the gift of imperfection, The great Gatsby, and Strength’s finder 2.0 has the highest number of occurrences amongst the top 10 most popular books.
 
-- # According to Amazon's best selling book list between 2009 and 2019, the most popular cover type is hardcover (324 titles); the least popular cover type is Mass Market paperback (13 titles).
+- ###### According to Amazon's best selling book list between 2009 and 2019, the most popular cover type is hardcover (324 titles); the least popular cover type is Mass Market paperback (13 titles).
 
-- # The box plot and violin plots show that top outliers in the ratings variable were books that had ratings below 4.0 ratings. It was observed that the outliers in the number of reviews variable is a book that had about 600,000 reviews.  The outlier in the price range is a book that was sold for about 140 dollars.  It was observed that most user ratings occurred between 4.5 and 4.8, most occurring price range was between 10 and 18 dollars, and most occurring number of reviews were below 40,000.
+- ###### The box plot and violin plots show that top outliers in the ratings variable were books that had ratings below 4.0 ratings. It was observed that the outliers in the number of reviews variable is a book that had about 600,000 reviews.  The outlier in the price range is a book that was sold for about 140 dollars.  It was observed that most user ratings occurred between 4.5 and 4.8, most occurring price range was between 10 and 18 dollars, and most occurring number of reviews were below 40,000.
 
-- # The Amazon best book selling with Non-Fiction category was the most popular category from 2009 to 2019, with 55.13% (percent) of the 215 books being Non-Fiction and 45.6% (percent) being Fiction.
+- ###### The Amazon best book selling with Non-Fiction category was the most popular category from 2009 to 2019, with 55.13% (percent) of the 215 books being Non-Fiction and 45.6% (percent) being Fiction.
 
 - ### It was observed that the highest percentage (66.7%) of Nonfiction books were sold in 2017 and the highest percentage of fiction books were sold in 2009. However, the lowest percentage of books for Nonfiction were sold in 2009 and lowest percentage of fiction books sold are in 2007.
 
