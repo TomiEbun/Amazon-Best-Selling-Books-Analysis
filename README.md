@@ -47,37 +47,37 @@ Each year contains a list of 100 best-selling books. The whole data contains 607
 
 ## SUMMARY OF THE FINDINGS (Exploratory Data Analysis)
 
-- ###### Among the top 10 most popular Authors, Author BrenA Brown and Jeff Kinney are the top selling authors with 14 appearances in the top selling books between 2009 and 2019.
+- #### Among the top 10 most popular Authors, Author BrenA Brown and Jeff Kinney are the top selling authors with 14 appearances in the top selling books between 2009 and 2019.
 
-- ###### It was observed that the gift of imperfection, The great Gatsby, and Strength’s finder 2.0 has the highest number of occurrences amongst the top 10 most popular books.
+- #### It was observed that the gift of imperfection, The great Gatsby, and Strength’s finder 2.0 has the highest number of occurrences amongst the top 10 most popular books.
 
-- ###### According to Amazon's best selling book list between 2009 and 2019, the most popular cover type is hardcover (324 titles); the least popular cover type is Mass Market paperback (13 titles).
+- #### According to Amazon's best selling book list between 2009 and 2019, the most popular cover type is hardcover (324 titles); the least popular cover type is Mass Market paperback (13 titles).
 
-- ###### The box plot and violin plots show that top outliers in the ratings variable were books that had ratings below 4.0 ratings. It was observed that the outliers in the number of reviews variable is a book that had about 600,000 reviews.  The outlier in the price range is a book that was sold for about 140 dollars.  It was observed that most user ratings occurred between 4.5 and 4.8, most occurring price range was between 10 and 18 dollars, and most occurring number of reviews were below 40,000.
+- #### The box plot and violin plots show that top outliers in the ratings variable were books that had ratings below 4.0 ratings. It was observed that the outliers in the number of reviews variable is a book that had about 600,000 reviews.  The outlier in the price range is a book that was sold for about 140 dollars.  It was observed that most user ratings occurred between 4.5 and 4.8, most occurring price range was between 10 and 18 dollars, and most occurring number of reviews were below 40,000.
 
-- ###### The Amazon best book selling with Non-Fiction category was the most popular category from 2009 to 2019, with 55.13% (percent) of the 215 books being Non-Fiction and 45.6% (percent) being Fiction.
+- #### The Amazon best book selling with Non-Fiction category was the most popular category from 2009 to 2019, with 55.13% (percent) of the 215 books being Non-Fiction and 45.6% (percent) being Fiction.
 
-- ### It was observed that the highest percentage (66.7%) of Nonfiction books were sold in 2017 and the highest percentage of fiction books were sold in 2009. However, the lowest percentage of books for Nonfiction were sold in 2009 and lowest percentage of fiction books sold are in 2007.
+- #### It was observed that the highest percentage (66.7%) of Nonfiction books were sold in 2017 and the highest percentage of fiction books were sold in 2009. However, the lowest percentage of books for Nonfiction were sold in 2009 and lowest percentage of fiction books sold are in 2007.
 
-- ### Paula Hawkins and Delia Owens are the two best selling authors with the highest number of books reviews in the top 10. However, we can see that Delia Owens is that one outlier that appears to have had the highest number of reviews, approximately 611,916 which is much higher than the number of reviews of other authors.
+- #### Paula Hawkins and Delia Owens are the two best selling authors with the highest number of books reviews in the top 10. However, we can see that Delia Owens is that one outlier that appears to have had the highest number of reviews, approximately 611,916 which is much higher than the number of reviews of other authors.
 
-- ### It was observed that the top 10 best-selling fiction titles received approximately 56,963 reviews on average, while the top 10 best-selling non-fiction titles received approximately 24,952 reviews on average. We can see that Fiction best-selling books received more reviews than non-fiction between 2009 and 2019.
+- #### It was observed that the top 10 best-selling fiction titles received approximately 56,963 reviews on average, while the top 10 best-selling non-fiction titles received approximately 24,952 reviews on average. We can see that Fiction best-selling books received more reviews than non-fiction between 2009 and 2019.
 
-- ### The average price of Amazon's best-selling books has decreased over the years; in 2013 it was around 17.08 dollars, but by 2019, it was approximately 11. 10dollars.Overall, cost of books was decreasing with Years.
+- #### The average price of Amazon's best-selling books has decreased over the years; in 2013 it was around 17.08 dollars, but by 2019, it was approximately 11. 10dollars.Overall, cost of books was decreasing with Years.
 
-- ### From the scatterplot, there is a negative correlation between prices and the number of reviews. This indicates that as the number of reviews increases, the price decreases slightly, but the correlation is not very strong, suggesting that the relationship is not significant. In other words, a correlation does not imply causation, so we cannot conclude that a decrease in prices directly results from an increase in reviews. We also observed that there are outliers in the prices of books which are above 140 dollars and number of reviews which is above 600,000 reviews.
+- #### From the scatterplot, there is a negative correlation between prices and the number of reviews. This indicates that as the number of reviews increases, the price decreases slightly, but the correlation is not very strong, suggesting that the relationship is not significant. In other words, a correlation does not imply causation, so we cannot conclude that a decrease in prices directly results from an increase in reviews. We also observed that there are outliers in the prices of books which are above 140 dollars and number of reviews which is above 600,000 reviews.
 
-- ### The top 10 amazon best selling books Authors with the highest User ratings have 4.90 stars for their books.
+- #### The top 10 amazon best selling books Authors with the highest User ratings have 4.90 stars for their books.
 
-- ### It can be observed that the author with highest priced books is American Psychiatric Association who charges 93.49 dollars. However, American Psychiatric Association is an outlier having the maximum price of above 80dollars.
+- #### It can be observed that the author with highest priced books is American Psychiatric Association who charges 93.49 dollars. However, American Psychiatric Association is an outlier having the maximum price of above 80dollars.
 
-- ### From the amazon best books selling, the heatmap shows that year has a positive correlation with the book’s ratings. A strong correlation exists between the number of reviews and the year, suggesting that the number of reviews tends to increase over time, however, the other correlations are not significant enough to draw strong conclusions about their relationships.
+- #### From the amazon best books selling, the heatmap shows that year has a positive correlation with the book’s ratings. A strong correlation exists between the number of reviews and the year, suggesting that the number of reviews tends to increase over time, however, the other correlations are not significant enough to draw strong conclusions about their relationships.
 
-- ### Among the top 10 Best Selling Authors based on Genre and Number of their book’s appearances-Jeff Kinney and Suzanne collins rank the top two best selling authors for Fiction genre category between 2009 and 2019.The top two best selling authors in Non-Fiction genre category between 2009 and 2019 are Gallup and the College Board Authors.
+- #### Among the top 10 Best Selling Authors based on Genre and Number of their book’s appearances-Jeff Kinney and Suzanne collins rank the top two best selling authors for Fiction genre category between 2009 and 2019.The top two best selling authors in Non-Fiction genre category between 2009 and 2019 are Gallup and the College Board Authors.
 
-- ### Amazon top 5 best Fiction selling books based on user reviews are Where the Crawdads Sing, The Girl on the train, Eleanor Oliphant is completely fine: A novel, beneath a Scarlet Sky and All the light we cannot see. However, Where the Crawdads Sing is that outlier with the highest number of reviews of about 611,916 reviews.
+- #### Amazon top 5 best Fiction selling books based on user reviews are Where the Crawdads Sing, The Girl on the train, Eleanor Oliphant is completely fine: A novel, beneath a Scarlet Sky and All the light we cannot see. However, Where the Crawdads Sing is that outlier with the highest number of reviews of about 611,916 reviews.
 
 
-- ### Amazon top 5 best Non-Fiction selling books based on user reviews are Educated: A Memoir, becoming, The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life, Sapiens: A Brief History of Humankind. However, Where the Educated: A Memoirs is that outlier with the highest number of reviews of about 208,290 reviews.
+- #### Amazon top 5 best Non-Fiction selling books based on user reviews are Educated: A Memoir, becoming, The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life, Sapiens: A Brief History of Humankind. However, Where the Educated: A Memoirs is that outlier with the highest number of reviews of about 208,290 reviews.
 
-- ### The Word cloud for amazon best selling books provides at-a-glance view and it makes it easier to communicate the main themes or trends in huge text sets to a wider audience when they can be summarized and visualized in such an appealing and straightforward way.
+- #### The Word cloud for amazon best selling books provides at-a-glance view and it makes it easier to communicate the main themes or trends in huge text sets to a wider audience when they can be summarized and visualized in such an appealing and straightforward way.
