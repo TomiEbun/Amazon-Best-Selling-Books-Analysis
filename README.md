@@ -19,6 +19,11 @@ In data curation process which is the process of organization and integration of
 There is a need for categorizing the books in different departments into a distinct category for exploratory analysis. I checked the Goodreads website https://www.goodreads.com/ which is the world's largest site for readers and book recommendations to get the distinct category of each book.
 I then checked Kaggle for a dataset that has the title and distinct category (Nonfiction and Fiction) of the books scrapped from amazon website for 2009-2019.This dataset will be merged with the amazon best-selling books dataset scrapped from the website.
 
+
+![image](https://github.com/user-attachments/assets/824166b0-3069-42fc-b3a9-b052c86b23a7)
+
+
+
 ### DATA CLEANING 
 After accessing the web scrapping dataset from the amazon website, several rows in the scraped dataset for 2009-2019 have missing and null values. 
 
